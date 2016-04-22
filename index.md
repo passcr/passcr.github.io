@@ -8,10 +8,10 @@ There are emerging demands on integrating various techniques as well as social i
 
 # Important Dates
 
-* Submission date:
-* Author notification: 
-* Camera-ready proceedings: 
-* Workshop date:
+* Submission date: June 1, 2016
+* Notification of paper acceptance: June 25, 2016
+* Workshop date: October 13, 2016
+* Conference date: October 14-16, 2016
 
 # Submission
 For details on how to submit to PASSCR 2016 see the [submission page](http://passcr.org/submission/).

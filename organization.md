@@ -16,7 +16,7 @@ permalink: /organization/
 # Program Committee Members 
 * Ryota Nishimura (Keio University, Japan) 
 * Yuko Ozasa (Keio University, Japan) 
-* Shun Shiramatsu (Nagoya Institute of Technology) 
+* Shun Shiramatsu (Nagoya Institute of Technology, Japan) 
 * Ayanori Yorozu (Keio University, Japan) 
-* Susel Fernandez (Nagoya Institute of Technology) 
+* Susel Fernandez (Nagoya Institute of Technology, Japan) 
 

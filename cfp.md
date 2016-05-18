@@ -11,6 +11,7 @@ Topics of interest include, but are not limited to:
 
 * collective reasoning 
 * collective intelligence 
+* knowledge management
 * ontology-based reasoning platform 
 * social and large scale consensus support 
 * open government data 

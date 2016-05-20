@@ -14,9 +14,11 @@ permalink: /organization/
 * Mark Klein (Center for Collective Intelligence, MIT, U.S.) 
 
 # Program Committee Members 
+* Susel Fernandez (Nagoya Institute of Technology, Japan) 
+* Edith Maier (University of Applied Sciences St. Gallen, Switzerland)
 * Ryota Nishimura (Keio University, Japan) 
 * Yuko Ozasa (Keio University, Japan) 
 * Shun Shiramatsu (Nagoya Institute of Technology, Japan) 
+* Ulrich Reimer (University of Applied Sciences St. Gallen, Switzerland)
 * Ayanori Yorozu (Keio University, Japan) 
-* Susel Fernandez (Nagoya Institute of Technology, Japan) 
 

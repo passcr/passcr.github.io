@@ -8,7 +8,7 @@ There are emerging demands on integrating various techniques as well as social i
 
 # Important Dates
 
-* Submission date: ~~June 1, 2016~~ June 5, 2016
+* Submission date: ~~June 1, 2016~~ ~~June 5, 2016~~ June 10, 2016
 * Notification of paper acceptance: ~~June 25, 2016~~ June 30, 2016
 * Workshop date: October 13, 2016
 * Conference date: October 14-16, 2016

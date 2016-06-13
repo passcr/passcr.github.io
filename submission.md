@@ -7,4 +7,4 @@ Paper submissions should be limited to a maximum of 4 pages (IEEE-CS format, ext
 
 All submitted papers will be reviewed by at least 2 program committee members on the basis of technical quality, relevance, significance, and clarity. The accepted papers will be included in the Workshop Proceedings published by the IEEE Computer Society Press.
 
-The workshop only accepts on–line submissions. Workshops on–line submission page can be accessed through the [WI-IAT 2016 Submission site](https://wi-lab.com/cyberchair/2016/wi16/scripts/submit.php?subarea=Wr).
+The workshop only accepts on–line submissions. Workshops on–line submission page can be accessed through the [WI-IAT 2016 Submission site](https://wi-lab.com/cyberchair/2016/wi16/scripts/submit.php?subarea=S08&undisplay_detail=1&wh=/cyberchair/2016/wi16/scripts/ws_submit.php).

@@ -15,3 +15,9 @@ There are emerging demands on integrating various techniques as well as social i
 
 # Submission
 For details on how to submit to PASSCR 2016, see [the submission page](http://passcr.org/submission/).
+
+<div style="color: red; font-weight: bold;">
+We noticed that the link for the submission page for our workshop was wrong.
+We have corrected the link to the submission page for our workshop since June 13.
+Please resubmit your paper from the correct link if you have submitted your paper to our workshop before June 13. We are really sorry about your inconvenience.
+</div>

@@ -6,7 +6,7 @@ permalink: /program/
 
 **14:00--14:10**: Workshop Opening Remarks
 
-**14:10--14:40**: Workshop Keynote Talk: Dr. Takeshi Morita  
+**14:10--14:40**: Workshop Keynote Talk: Dr. Takeshi Morita "Implementing Customer Reception Service in Robot Teahouse based on PRINTEPS"
 **14:40--15:00**: Chihiro Nishimoto, Shunsuke Akashiba, Haruya Suga, Reuji Kukihara, Misae Kuwayama, and Takahira Yamaguchi "Implementation and Evaluation of Classroom AI in PRINTEPS"  
 **15:00--15:20**: Hiroshi Asano, Takeshi Morita, and Takahira Yamaguchi "A Question Answering System with Wikipedia-based and Domain Ontologies"  
 

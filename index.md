@@ -21,3 +21,5 @@ This Workshop welcomes researchers as well as practitioners from the fields of A
 # Submission
 For details on how to submit to PASSCR 2017, see [the submission page](http://passcr.org/submission/).
 
+# Previous workshops
+* [PASSCR 2016](http://passcr.org/2016/)

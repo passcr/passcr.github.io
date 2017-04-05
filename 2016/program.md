@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2016
 title: Program
 permalink: /2016/program/
 ---

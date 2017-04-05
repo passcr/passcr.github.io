@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2016
 title: Home
 permalink: /2016/
 ---

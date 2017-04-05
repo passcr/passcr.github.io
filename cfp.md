@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2017
 title: Call for Papers
 permalink: /cfp/
 ---

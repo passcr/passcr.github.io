@@ -4,20 +4,20 @@ title: Home
 permalink: /
 ---
 # Motivation
-There are emerging demands on integrating various techniques as well as social intelligence to solve various social issues, such as increasing/decreasing of populations, consensus building among people having conflicting preferences. Although many AI-based heuristic approaches have been applied for them, to make reasonable and agreeable decisions and actions to such issues, to make an ability to better explain what and why of those decisions as well as the processes to reach them are crucial. On the other hand, mechanism design, social choice, and other agent-based technologies such as automated negotiation among intelligent software agents are now being very strong tools and theories to make the systems intelligent. To make their behaviors explainable and understandable for us, giving a good grounding to facts, knowledge, and data is crucial. Because the use of ontology-based reasoning techniques with Linked Open Data is now going to be a great platform to describe and manage them, this workshop also welcomes contributions from researchers working on  AI and agent-based technologies field. This workshop aims to promote state-of-the-art techniques and platforms to those people and to provide an opportunity to emerge good collaborations among them.
+
+There are emerging demands on integrating various techniques, tools, and platforms to enhance and accommodate social intelligence to solve various social issues, such as increasing/decreasing of populations, which often requires consensus building among people having conflicting preferences. Although huge efforts have been done on AI-based heuristic approaches to solve various kind of social problems, better utilization of reasoning techniques is the key to make reasonable and agreeable decisions and actions to solve such issues since it has an ability to better explain what and why of those decisions are made as well as managing the processes of them. The organizers also believe that, providing well-designed platforms and tools to construct such applications will be crucial. 
+
+This Workshop welcomes researchers as well as practitioners from the fields of AI-based applications and platforms as well as related fields in AI, agents, and semantic technologies (e.g., mechanism design, social choice, and other agent-based technologies such as automated negotiation among intelligent software, applications to robotics and human-robot interactions, reasoning on logics and ontological descriptions, intelligent access to open data, and other related fields). This workshop aims to promote state-of-the-art techniques and platforms to the attendees and  give them a good opportunity to emerge future collaborations. 
+
 
 # Important Dates
 
-* Submission date: ~~June 1, 2016~~ ~~June 5, 2016~~ June 10, 2016
-* Notification of paper acceptance: ~~June 25, 2016~~ June 30, 2016
-* Workshop date: October 13, 2016
-* Conference date: October 14-16, 2016
+* Submission date: May 1, 2017
+* Notification of paper acceptance: May 22, 2017
+* Camera-Ready papers: June 12, 2017
+* Workshop date: August 23, 2017
+* Conference date: August 24-26, 2016
 
 # Submission
-For details on how to submit to PASSCR 2016, see [the submission page](http://passcr.org/submission/).
+For details on how to submit to PASSCR 2017, see [the submission page](http://passcr.org/submission/).
 
-<div style="color: red; font-weight: bold;">
-We noticed that the link for the submission page for our workshop was wrong.
-We have corrected the link to the submission page for our workshop since June 13.
-Please resubmit your paper from the correct link if you have submitted your paper to our workshop before June 13. We are really sorry about your inconvenience.
-</div>

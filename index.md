@@ -12,9 +12,9 @@ This Workshop welcomes researchers as well as practitioners from the fields of A
 
 # Important Dates
 
-* Submission date: May 1, 2017
-* Notification of paper acceptance: May 22, 2017
-* Camera-Ready papers: June 12, 2017
+* Submission of regular papers: May 01, 2017
+* Notification of regular paper acceptance: May 29, 2017
+* Camera-Ready papers: June 19, 2017
 * Workshop date: August 23, 2017
 * Conference date: August 24-26, 2016
 

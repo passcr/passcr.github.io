@@ -14,5 +14,6 @@ permalink: /organization/
 * Mark Klein (Center for Collective Intelligence, MIT, U.S.) 
 
 # Program Committee Members 
-
-TBA
+* Yuko Ozasa (Keio University, Japan)
+* Tadachika Ozono (Nagoya Institute of Technology, Japan)
+* Ayanori Yorozu (Keio University, Japan)
